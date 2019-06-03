@@ -1,0 +1,68 @@
+[
+      {
+         "name": "Spiderman",
+         "third": 380,
+         "screen": "A",   
+         "second": 400,
+         "first": 450,
+         "showDetails":
+            [{"ShowTime":"8:00am","AvailableSeats":50},
+             {"ShowTime":"1:00pm","AvailableSeats":25}], 
+         "description": "When bitten by a genetically modified spider,student gains spider-like abilities"
+      },
+      {
+         "name": "Batman",
+         "third": 280,
+         "screen": "A",
+         "second": 300,
+         "first": 350,
+         "showDetails":
+            [{"ShowTime":"6:00am","AvailableSeats":50},
+             {"ShowTime":"10:00pm","AvailableSeats":25}], 
+         "description": "The Dark Knight begins his war on crime with his first major enemy."
+      }, 
+      {
+         "name": "Superman",
+         "third": 180,
+         "screen": "A",
+         "showDetails":
+            [{"ShowTime":"6:00pm","AvailableSeats":50},
+             {"ShowTime":"10:00pm","AvailableSeats":25}],   
+         "second": 200,
+         "first": 250,
+         "description": "An alien orphan is sent from his dying planet to Earth."
+      },
+      {
+         "name": "Ironman",
+         "third": 120,
+         "screen": "B",
+         "second": 140,
+         "first": 200,
+         "showDetails":
+            [{"ShowTime":"8:00pm","AvailableSeats":500},
+             {"ShowTime":"4:00pm","AvailableSeats":250}], 
+         "description": "Tony Stark creates a unique weaponized suit of armor"
+      },
+      {
+         "name": "Hollowman",
+         "third": 140,
+         "screen": "B",
+         "second": 160,
+         "first": 195,
+         "showDetails":
+            [{"ShowTime":"5:00pm","AvailableSeats":50},
+             {"ShowTime":"11:00am","AvailableSeats":25}], 
+         "description": "He slowly unravels and turns against them, with horrific consequences."
+      },
+      {
+         "name": "Shadowman",
+         "third": 80,
+         "screen": "B",
+         "second": 100,
+         "first": 120,
+         "showDetails":
+            [{"ShowTime":"5:00pm","AvailableSeats":50},
+             {"ShowTime":"10:00am","AvailableSeats":25}], 
+         "description": "Rediscovered 20 years later, he gets a second chance."
+      }
+   ]

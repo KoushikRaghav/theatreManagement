@@ -1,0 +1,43 @@
+[
+        {
+            "name": "Godzilla: King of the Monsters", 
+            "description": "The crypto-zoological agency Monarch faces off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah.", 
+            "cast":  "Kyle Chandler,Vera Farmiga,Millie Bobby Brown",
+            "release": "31 May 2019"
+        },
+        {
+            "name": "The New Mutants",
+            "description": "Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.",
+            "cast": "Maisie Williams, Anya Taylor-Joy, Alice Braga, Antonio Banderas",
+            "release": "Early 2020"
+        },
+        {
+            "name": "Spider-Man: Far from Home",
+            "description": "Following the events of Avengers: Endgame, Spider-Man must step up to take on new threats in a world that has changed forever.",
+            "cast": "Zendaya, Tom Holland, Marisa Tomei, Jake Gyllenhaal",
+            "release": "5 July 2019"
+        },
+        {
+            "name": "Star Wars: The Rise of Skywalker",
+            "description":"The surviving Resistance faces the First Order once more in the final chapter of the Skywalker saga.",
+            "cast": " Billie Lourd, Adam Driver, Daisy Ridley, Lupita Nyong'o",
+            "release": "Coming Soon"
+        },
+        {
+            "name": "Top Gun: Maverick ",
+            "description":"The plot is unknown at this time.",
+            "cast": "Tom Cruise, Jennifer Connelly, Jon Hamm, Val Kilmer",
+            "release": "2020"
+        },
+        {
+            "name": "It Chapter Two",
+            "description":"Twenty-seven years after their first encounter with the terrifying Pennywise, the Losers Club have grown up and moved away, until a devastating phone call brings them back.",
+            "cast": "James McAvoy, Jessica Chastain, Bill Skarsgård, Bill Hader",
+            "release": "Coming Soon"
+              
+        }
+
+     ]
+   
+
+
