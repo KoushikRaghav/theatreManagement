@@ -30,12 +30,12 @@ Theatre, show timimg, Total amount Sold
 
 A, 9:30 AM show, 2589 Rs
 
-A, 1:30 PM, 2500 Rs,
+A, 1:30 PM show, 2500 Rs,
 
-A, 6:00PM, 80000 Rs
+A, 6:00 PM show, 80000 Rs
 
 B, 9:30 AM show, 2589 Rs
 
-B, 1:30 PM, 2500 Rs,
+B, 1:30 PM show, 2500 Rs
 
-B, 6:00PM, 80000 Rs
+B, 6:00 PM show, 80000 Rs
